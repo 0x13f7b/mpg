@@ -69,7 +69,7 @@ function delayedRedirect(){
 						$mail = $_POST['email_quote'];
 
 						/*$subject = "".$_POST['subject'];*/
-						$to = "info@removals.com";
+						$to = "movingpackinggroup@outlook.com";
 						$subject = "Quotation request from REMOVALS";
 						$headers = "From: REMOVALS web site <noreply@yourdomain.com>";
 						
@@ -130,7 +130,7 @@ function delayedRedirect(){
 						//Confirmation page
 						$user = "$mail";
 						$usersubject = "Thank You";
-						$userheaders = "From: info@removals.com\n";
+						$userheaders = "From: movingpackinggroup@outlook.com\n";
 						/*$usermessage = "Thank you for your time. Your request is successfully submitted.\n"; WITH OUT SUMMARY*/
 						//Confirmation page WITH  SUMMARY
 						$usermessage = "Thank you for your time. Your request is successfully submitted.\n\nSUMMARY\n$message"; 

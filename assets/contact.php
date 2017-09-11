@@ -51,7 +51,7 @@ if(get_magic_quotes_gpc()) {
 
 
 //$address = "HERE your email address";
-$address = "info@removals.com";
+$address = "movingpackinggroup@outlook.com";
 
 
 // Below the subject of the email
@@ -72,7 +72,7 @@ $headers .= "Content-Transfer-Encoding: quoted-printable" . PHP_EOL;
 
 $user = "$email_contact";
 $usersubject = "Thank You";
-$userheaders = "From: info@removals.com\n";
+$userheaders = "From: movingpackinggroup@outlook.com\n";
 $usermessage = "Thank you for contact REMOVALS. We will reply shortly!";
 mail($user,$usersubject,$usermessage,$userheaders);
 
