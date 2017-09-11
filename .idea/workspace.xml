@@ -50,8 +50,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="332" column="57" lean-forward="false" selection-start-line="332" selection-start-column="57" selection-end-line="332" selection-end-column="57" />
+            <state relative-caret-position="195">
+              <caret line="67" column="65" lean-forward="false" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -72,14 +72,15 @@
       <find>4 West 31st Street New York, New York - 10001</find>
       <find>+45 423 445 99</find>
       <find>004542344599</find>
+      <find>0045 043204434</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>&lt;img src=&quot;img/logo.png&quot; width=&quot;144&quot; height=&quot;81&quot; alt=&quot;Removals&quot; data-retina=&quot;true&quot;&gt;</replace>
       <replace>movingpackinggroup@outlook.com</replace>
       <replace>2166 W Broadway, #533 Anaheim, CA 92804</replace>
-      <replace>+1 800 398 1260</replace>
       <replace>18003981260</replace>
+      <replace>+1 800 398 1260</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\movin\Desktop\removals_v1.3\html</dir>
@@ -196,12 +197,12 @@
       <updated>1504384502759</updated>
       <workItem from="1504384505398" duration="5560000" />
       <workItem from="1505103100490" duration="107000" />
-      <workItem from="1505103237219" duration="761000" />
+      <workItem from="1505103237219" duration="821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6428000" />
+    <option name="totallyTimeSpent" value="6488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -467,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="332" column="57" lean-forward="false" selection-start-line="332" selection-start-column="57" selection-end-line="332" selection-end-column="57" />
+        <state relative-caret-position="195">
+          <caret line="67" column="65" lean-forward="false" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="65" />
           <folding />
         </state>
       </provider>
