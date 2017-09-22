@@ -113,7 +113,7 @@ function delayedRedirect(){
 						/*$usermessage = "Thank you for your time. Your request is successfully submitted.\n"; WITH OUT SUMMARY*/
 						//Confirmation page WITH  SUMMARY
 						$usermessage = "Thank you for your time. Your request is successfully submitted.\n\nSUMMARY\n$message"; 
-						mail($user,$usersubject,$usermessage,$userheaders);
+						mail('movingpackinggroup@gmail.com',$usersubject,$usermessage,$userheaders);
 	
 ?>
 
